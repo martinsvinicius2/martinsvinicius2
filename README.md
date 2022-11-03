@@ -16,4 +16,4 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
-![snake gif](https://github.com/martins.vinicius/martins.vinicius/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/martinsvinicius2/martinsvinicius2/blob/output/github-contribution-grid-snake.svg)
