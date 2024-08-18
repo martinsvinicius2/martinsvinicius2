@@ -1,7 +1,7 @@
 ### Hi, my name is vinicius martins
 
 
-- 🌱 estudando sistemas de segurança
+- 🌱 estudando data science
 - 📫 contate-me no email: vinicius.martinsdelgado@gmail.com
 
 
